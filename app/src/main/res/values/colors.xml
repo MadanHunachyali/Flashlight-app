@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Brand Color -->
+    <color name="primary_blue">#2962FF</color>
+
+    <!-- On Primary (text/icon on blue) -->
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Background -->
+    <color name="background">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#000000</color>
+
+</resources>

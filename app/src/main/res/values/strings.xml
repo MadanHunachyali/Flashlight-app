@@ -1,0 +1,21 @@
+<resources>
+    <!--Splash Screen-->
+    <string name="app_name">Flashlight</string>
+    <string name="content">App logo</string>
+
+    <!--Login Screen-->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">New user?Register</string>
+
+    <!--Signup Screen-->
+    <string name="signup">Sign Up</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="register_1">Register</string>
+
+    <!--Home Screen-->
+    <string name="home">Home</string>
+    <string name="torch">Torch</string>
+    <string name="logs">Show Logs</string>
+</resources>
