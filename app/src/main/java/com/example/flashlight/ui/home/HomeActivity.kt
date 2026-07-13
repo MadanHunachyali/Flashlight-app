@@ -17,7 +17,7 @@ import com.example.flashlight.utils.TimeUtils
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.materialswitch.MaterialSwitch
 
-class HomeActivity : AppCompatActivity() {
+class   HomeActivity : AppCompatActivity() {
 
     private lateinit var cameraManager: CameraManager
     private lateinit var cameraId: String
