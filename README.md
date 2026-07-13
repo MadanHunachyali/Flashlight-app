@@ -4,7 +4,7 @@ A simple Android application built as a self-learning project to understand Andr
 
 > **Project Status:** This project is under active development and is continuously being updated with new features, improvements, and Android best practices as I continue learning.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Kotlin
 * **UI:** XML, ConstraintLayout, Material Design Components
